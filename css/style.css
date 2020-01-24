@@ -132,3 +132,10 @@ body {
   margin: 0;
   margin-bottom: 29px;
 }
+.input {
+  background: #F8F8F8;
+  border: none;
+  box-shadow: inset 0px 3px 10px rgba(199, 199, 199, 0.25);
+  border-radius: 5px;
+  padding: 18px 20px;
+}
